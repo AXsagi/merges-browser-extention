@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Do Not Merge Not Approved PRs for GitHub",
+    "description": "Application name"
+  },
+  "appDescription": {
+    "message": "You do not merge not approved pull requests!",
+    "description": "Application description"
+  }
+}

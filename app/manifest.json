@@ -1,0 +1,23 @@
+{
+    "name": "__MSG_appName__",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "__MSG_appDescription__",
+    "icons": {
+        "16": "images/icon2-16.png",
+        "128": "images/icon2-128.png"
+    },
+    "default_locale": "en",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://github.com/*/*/pull/*"
+            ],
+            "js": [
+                "scripts/contentscript.js"
+            ],
+            "run_at": "document_start",
+            "all_frames": false
+        }
+    ]
+}
