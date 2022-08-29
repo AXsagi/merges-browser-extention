@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "manifest_version": 3,
     "description": "__MSG_appDescription__",
+	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuQbU2tk1qLibGg31G/cVfIapA3IgVqtAu4TwjxJii/MjbmWVWSEiguu/lBK+lyRA1Hl2sSGLcHk3PZEnj8Yxx9bkb+wamrxD/v9Bv86VTx6mJXQjDNy4cJlKRlG/ktiqWAiO8dk0IDtiJ2GDEDqXgwYKahpf2EZg8DAlDWc8RjNluLLsxxq7BqDtYisxr2wN/C+bkFA6Aq49Eerncc0c3yjl9gratyPCbRsb520AbCeq6p3cc5ayYnzvGn+WKx3ZU11+CRGkiIvnWfeg9wJCGWLC3R+gIek92ncKPJ8koFDBg4qMfDzvvDZHkSYYbyhdEGCNWuvhe+yPHbVCyQTXSwIDAQAB",
     "icons": {
         "16": "images/icon2-16.png",
         "128": "images/icon2-128.png"

@@ -4,3 +4,4 @@ temp
 dist
 package
 package-lock.json
+*.crx
